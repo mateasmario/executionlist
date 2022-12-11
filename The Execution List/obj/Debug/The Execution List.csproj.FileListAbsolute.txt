@@ -1,0 +1,11 @@
+E:\dev\winforms\The Execution List\bin\Debug\The Execution List.exe.config
+E:\dev\winforms\The Execution List\bin\Debug\The Execution List.exe
+E:\dev\winforms\The Execution List\bin\Debug\The Execution List.pdb
+E:\dev\winforms\The Execution List\obj\Debug\The Execution List.csproj.AssemblyReference.cache
+E:\dev\winforms\The Execution List\obj\Debug\The Execution List.csproj.SuggestedBindingRedirects.cache
+E:\dev\winforms\The Execution List\obj\Debug\The_Execution_List.Form1.resources
+E:\dev\winforms\The Execution List\obj\Debug\The_Execution_List.Properties.Resources.resources
+E:\dev\winforms\The Execution List\obj\Debug\The Execution List.csproj.GenerateResource.cache
+E:\dev\winforms\The Execution List\obj\Debug\The Execution List.csproj.CoreCompileInputs.cache
+E:\dev\winforms\The Execution List\obj\Debug\The Execution List.exe
+E:\dev\winforms\The Execution List\obj\Debug\The Execution List.pdb
